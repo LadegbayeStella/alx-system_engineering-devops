@@ -1,2 +1,2 @@
-:wqi:#!/bin/bash
+#!/bin/bash
 chgrp school hello
