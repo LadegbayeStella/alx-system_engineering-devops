@@ -1,2 +1,2 @@
 #!/bin/bah
-find . -trpe d -path './*' -print \wc -i
+find -mindepth 1 -type d | wc -l
